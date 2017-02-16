@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cacgoitu"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Các gói từ" />
+        <item
+            android:id="@+id/nav_tudathuoc"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Từ đã thuộc" />
+        <item
+            android:id="@+id/nav_tukho"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Từ khó" />
+        <item
+            android:id="@+id/nav_chiase"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Chia sẻ" />
+        <item
+            android:id="@+id/nav_binhchon"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Bình chọn" />
+        <item
+            android:id="@+id/nav_phanhoi"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Phản hồi" />
+        <item
+            android:id="@+id/nav_thietlaplai"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Thiết lập lại" />
+        <item
+            android:id="@+id/nav_huongdan"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Hướng dẫn" />
+        <item
+            android:id="@+id/nav_congdong"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Cộng đồng" />
+        <item
+            android:id="@+id/nav_cauhinh"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Cấu hình" />
+    </group>
+
+</menu>
